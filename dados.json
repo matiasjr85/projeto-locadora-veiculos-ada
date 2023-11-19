@@ -1,0 +1,15 @@
+{
+  "veiculos": [
+    {
+      "placa": "111",
+      "modelo": "fiat",
+      "alugado": false
+    },
+    {
+      "placa": "3333",
+      "modelo": "audi",
+      "alugado": false
+    }
+  ],
+  "clientes": []
+}
